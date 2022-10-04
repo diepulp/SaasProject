@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+
+}
+.container > h1 {
+    margin: 10px;
+    font-family: "Arial Black", "SansSerif", serif;
+}
+img {
+    width: 300px;
+    height: auto;
+}
